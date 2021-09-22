@@ -108,6 +108,7 @@
     font-size: medium;
     font-family: cursive;
 }
+
 .rectangle1{
     width: 20%;
     height: 81%;
@@ -155,7 +156,9 @@
     height: 100%;
     width: 48%;
     border:  2px solid violet;
-    background-color: violet;
+}
+.section5 .left  img{
+    width:99%;
 }
 #right{
     width: 50%;
@@ -206,6 +209,10 @@
     margin-left: 56px;
     margin-top: 20px;
     
+}
+.section2 img{
+    height: 100%;
+    width: 100%;
 }
 footer{
     display: block;
