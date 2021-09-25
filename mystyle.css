@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.wholepage{
+    background-image: url(./image/fastfood.jpg);
+
+}
 .nav{
     height: 100px;
     background-color:white;
@@ -31,6 +35,7 @@
 .logo{
     background-color: bisque;
     margin-left: 20px;
+    overflow: hidden;
 }
 .dropdown1{
     display: none;
