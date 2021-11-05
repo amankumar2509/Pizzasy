@@ -328,5 +328,69 @@ footer{
     transform: rotateY(180deg);
   }
   
-  
+
+  /*----------footer---------------*/
+  footer{
+    background-color: #26272b;
+  }
+  .sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .sec1 h2{
+    color: lightgray;
+}
+.about{
+    width: 40%;  
+}
+.about h2{
+    font-size: 24px;
+    color:lightgray;
+    text-transform:uppercase;
+}
+.about p{
+    text-align: justify;
+    color: grey;
+    margin-top: 10px;
+
+}
+.sec1 ul{
+    list-style: none;
+}
+.sec1 a{
+    text-decoration: none;
+    color: gray;
+}
+.sec1 a:hover{
+    color: orange;
+}
+.sec1 i{
+    color: gray;
+    font-size: 20px; 
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 30px;
+}
+.copyright p{
+    color: grey;
+    position: relative;
+     
+}
+.copyright p::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    position: absolute;
+    bottom: -10px;
+    background-color: yellow;
+    transition: all .3s;
+}
+.copyright p:hover::after{
+    width: 100% ;
+}
   
