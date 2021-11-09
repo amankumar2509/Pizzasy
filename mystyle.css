@@ -323,7 +323,7 @@ footer{
   
   /* Style the back side */
   .flip-card-back {
-    background-color: dodgerblue;
+    background-color: rgb(255, 131, 30);
     color: white;
     transform: rotateY(180deg);
   }
