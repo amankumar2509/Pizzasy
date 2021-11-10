@@ -143,7 +143,9 @@
 .section7{
     
     margin-top: 35px;
-    height: 300px;
+    height: 430px;
+    text-align: center;
+    font-size: larger;
     
 }
 .section4 h1{
@@ -332,6 +334,7 @@ footer{
   /*----------footer---------------*/
   footer{
     background-color: #26272b;
+    
   }
   .sec1{
     display: flex;
