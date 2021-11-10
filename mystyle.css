@@ -70,12 +70,12 @@
     background-color: #F4F4F2;
 }
 .section2{
-    border: 2px solid blue;
+    
     margin-top: 80px;
     height: 500px;
 }
 .section3{
-    border: 2px solid green;
+    
     margin-top: 35px;
     height: 500px;
     overflow: hidden;
@@ -122,26 +122,26 @@
     
 }
 .section4{
-    border: 2px solid black;
+    
     margin-top: 35px;
     height: 566px;
     background-color: #E8E8E8;;
 }
 .section5{
-    border: 2px solid green;
+    
     margin-top: 35px;
     height: 400px;
     text-align: center;
 }
 .section6{
-    border: 2px solid green;
+    
     margin-top: 35px;
     height: 1000px;
     text-align: center;
     text-decoration: underline;
 }
 .section7{
-    border: 2px solid green;
+    
     margin-top: 35px;
     height: 300px;
     
@@ -204,7 +204,7 @@
     float: left;
     height: 100%;
     width: 48%;
-    border:  2px solid violet;
+   
 }
 .section5 .left  img{
     width:99%;
@@ -213,7 +213,7 @@
     width: 50%;
     height: 100%;
     float: right;
-    border: 2px solid red;
+    
     
 }
 .B1{
